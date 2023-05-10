@@ -2,3 +2,4 @@ This is a text file.
 It is the second file.
 It, too, now has a third line!
 And, lo, a fourth!
+And a fifth (less exciting now).
