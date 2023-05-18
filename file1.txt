@@ -4,3 +4,4 @@ It is the first file.
 It's now got three lines, not two.
 Now here's a fifth line.
 Do I need to re-add?
+Now this was added from the CLONE local project!
