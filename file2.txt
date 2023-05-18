@@ -3,4 +3,4 @@ It is the second file.
 It, too, now has a third line!
 And, lo, a fourth!
 And a fifth (less exciting now).
-ORIGINAL CONFLICT LINE
+RESOLVED CONFLICT LINE
